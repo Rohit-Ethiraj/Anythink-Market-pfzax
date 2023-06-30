@@ -15,3 +15,5 @@ Once docker is installed run the command docker-compose up to setup the containe
 Then visit the http://localhost:3001/register to verify if your container is up and running.
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+**[Rohit Ethiraj]:** Adding new line to check if commit is reflected in remote or not
